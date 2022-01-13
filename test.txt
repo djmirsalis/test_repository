@@ -1,1 +1,1 @@
-this is a test of the merge github system
+this is a test of the push github system
